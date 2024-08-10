@@ -1,5 +1,4 @@
 # YuzukiLOHCC PRO
-
 Yuzuki **L**oop **O**ut **H**DMI **C**apture **C**ard PRO
 
 **CERN Open Hardware Licence Version 2 - Permissive**
@@ -7,6 +6,22 @@ Yuzuki **L**oop **O**ut **H**DMI **C**apture **C**ard PRO
 Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card)
 
 ![main](Bitmap/LOHCC.jpg)
+## fork update:
+Add windows flash tool and Firmware.  
+using ref(Chinese):https://post.smzdm.com/p/a0qp94n9/
+
+>backup
+>1. using option MS2130/31
+>2. choose Flash
+>3. Connect
+>4. Read
+>5. Save To Bin
+
+>flash
+>1. Open File
+>2. Connect
+>3. Download
+>4. plugout and reconnect
 
 ## About
 
